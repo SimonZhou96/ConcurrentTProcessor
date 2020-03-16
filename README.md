@@ -1,5 +1,7 @@
 # concurrent transaction simulator
 
+Department: Informatics and Computer Science
+
 Author: Shengquan Ni, Meng Zhou, Xiangde Zeng
 
 Platform needed:
