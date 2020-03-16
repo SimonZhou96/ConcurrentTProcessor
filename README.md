@@ -1,4 +1,4 @@
-# concurrent transaction simulator
+# (CTS)Concurrent Transaction Simulator
 
 Department: Informatics and Computer Science
 
